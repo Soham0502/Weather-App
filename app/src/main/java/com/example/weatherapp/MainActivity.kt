@@ -148,7 +148,7 @@ class MainActivity() : AppCompatActivity(), Parcelable {
                     cn.text = "$cityname"
 
                     val w = findViewById<TextView>(R.id.w)
-                    w.text = "$condition"
+                    w.text ="$condition"
 
 
                 }
