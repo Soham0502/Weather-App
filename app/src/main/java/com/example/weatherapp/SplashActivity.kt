@@ -16,7 +16,7 @@ class SplashActivity : AppCompatActivity() {
         "Its all about finding the                   CALM in the CHAOS :)",
         "No Storm can last forever! ",
         "After every STORM,\nthe SUN comes out <3",
-        "The SUN always comes out after a STORM <3Dubai ",
+        "The SUN always comes out after a STORM <3",
         "The sound of Rain.....",
         "Somedays, you just have to create your own Sunshine :)",
     )
